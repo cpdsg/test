@@ -1,0 +1,8 @@
+prefix=/home/cp/1ws/devel
+
+Name: collecttest
+Description: Description of collecttest
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

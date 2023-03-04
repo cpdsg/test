@@ -1,0 +1,2 @@
+collecttest:probot_anno_with_gripper_moveit_config:probot_description:probot_gazebo:probot_grasping
+-DCATKIN_DEVEL_PREFIX=/home/cp/1ws/devel -DCMAKE_INSTALL_PREFIX=/home/cp/1ws/install -G Unix Makefiles
